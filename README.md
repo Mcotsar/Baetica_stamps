@@ -1,2 +1,2 @@
 # Baetica_stamps
-Dataset and source code for the paper:
+Datasets and source code for the paper:
