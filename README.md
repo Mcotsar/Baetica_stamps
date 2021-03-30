@@ -1,7 +1,7 @@
 # Baetica_stamps
 Datasets and source code for the paper:
 
-# **Coto-Sarmiento, M. & Rubio-Campillo, X. (2021)**: The tracing of trade: Exploring the patterns of olive oil production and distribution from Roman Baetica. *Archaelogical and Anthropological Sciences,13,70*. DOI: https://doi.org/10.1007/s12520-021-01305-4
+## **Coto-Sarmiento, M. & Rubio-Campillo, X. (2021)**: The tracing of trade: Exploring the patterns of olive oil production and distribution from Roman Baetica. *Archaelogical and Anthropological Sciences,13,70*. DOI: https://doi.org/10.1007/s12520-021-01305-4
 
 Structure: 
 
