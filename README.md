@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/309751311.svg)](https://zenodo.org/badge/latestdoi/309751311)
+
+
 # Baetica_stamps
 Datasets and source code for the paper:
 
