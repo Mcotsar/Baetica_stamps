@@ -1,5 +1,4 @@
-[![DOI](https://zenodo.org/badge/309751311.svg)](https://zenodo.org/badge/latestdoi/309751311)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7603021.svg)](https://doi.org/10.5281/zenodo.7603021)
 
 # Baetica_stamps
 Datasets and source code for the paper:
